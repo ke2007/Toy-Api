@@ -1,7 +1,6 @@
 # ⛑ ToyProject- 게시판 Api
 
 ## SpringBoot로 게시판 api를 구현한 Toy프로젝트
-[배포사이트](https://kimtank.github.io/seb41_pre_depoy/)
 
 <hr>
 
